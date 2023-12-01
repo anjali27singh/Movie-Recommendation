@@ -1,1 +1,2 @@
-# mrs
+A recommendation system is an artificial intelligence or AI algorithm, usually associated with machine learning, that uses Big Data to suggest or recommend additional products to consumers. 
+Content filtering, by contrast, uses the attributes or features of an item  (this is the content part) to recommend other items similar to the user’s preferences. This approach is based on similarity of item and user features,  given information about a user and items they have interacted with model the likelihood of a new interaction.
